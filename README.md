@@ -13,6 +13,8 @@
         <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge">
     </a>
         </img>
-    <img src="https://komarev.com/ghpvc/?username=your-github-Hackuton&style=flat-square&color=blue" alt=""/>
+</div>
+<div id="Profile-views" align="center">
+<img src="https://komarev.com/ghpvc/?username=your-github-Hackuton&style=flat-square&color=blue" alt=""/>
     <h1>Привет всем!</h1>
 </div>
