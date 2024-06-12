@@ -19,6 +19,6 @@
 </div>
 <hr>
 ### :man_technologist: Обо мне:
-Frontend разработчик
+## Frontend разработчик
 
 - :star: Занимаюсь Frontend разработкой и считаю это своим хобби.
