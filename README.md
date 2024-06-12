@@ -16,5 +16,9 @@
 </div>
 <div id="Profile-views" align="center">
 <img src="https://komarev.com/ghpvc/?username=your-github-Hackuton&style=flat-square&color=blue" alt=""/>
-    <h1>Привет всем!</h1>
 </div>
+<hr>
+### :man_technologist: Обо мне:
+Frontend разработчик
+
+- :star: Занимаюсь Frontend разработкой и считаю это своим хобби.
