@@ -18,7 +18,17 @@
 <img src="https://komarev.com/ghpvc/?username=your-github-Hackuton&style=flat-square&color=blue" alt=""/>
 </div>
 <hr>
-<h2>:man_technologist: Обо мне:</h2>
-<h3>Frontend разработчик<h3>
+<h3>:man_technologist: Обо мне:</h3>
+<h4>Frontend разработчик<h4>
 
 - :star: Занимаюсь Frontend разработкой и считаю это своим хобби.
+- :computer: Большую часть своего времени трачу на изучение Web-технологии
+<hr>
+<h3>Ключевые навыки:</h3>
+<div>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  </div>
