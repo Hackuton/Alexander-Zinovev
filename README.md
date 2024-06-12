@@ -19,8 +19,6 @@
 </div>
 <hr>
 <h3>:man_technologist: Обо мне:</h3>
-<h4>Frontend разработчик<h4>
-
 <div id="about" align="left">
 <ul>
     <li>:star: Занимаюсь Frontend разработкой и считаю это своим хобби.</li>
@@ -36,3 +34,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   </div>
+<h3>:fire: Статистика</h3>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Hackuton&theme=youtube-dark&hide_border=true&locale=ru&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
